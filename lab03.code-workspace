@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../template"
+		},
+		{
+			"path": "../mylib"
+		}
+	],
+	"settings": {}
+}
